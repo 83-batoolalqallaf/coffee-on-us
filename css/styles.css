@@ -1,0 +1,12 @@
+body{background-color: gray;}
+.green {color: green ;}
+.red{color: red;}
+.blue{color: blue;}
+.star{background-color: green;}
+.costa{background-color: red;}
+.caribue{background-color: blue;}
+table, th, td {
+    border: 1px solid white;
+  }
+  table{margin: auto;}
+.margin{margin: 100px;}
